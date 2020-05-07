@@ -1,1 +1,1 @@
-# vanilaJS-popup
+Всплывающее модальное окно на ванильном JavaScript
